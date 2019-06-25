@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+
+
+#Category{
+	background-color: #f2f2f2;
+  width: 500px;
+  border: 15px solid #99ccff;
+  padding:  40px 15px 15px 40px;
+  margin: 20px 0px 5px 0px;
+}
+.Category{
+	background-color: #f2f2f2;
+  width: 500px;
+  border: 15px solid #99ccff;
+  padding:  40px 15px 15px 40px;
+  margin: 20px 0px 5px 0px;
+}
+.material{
+	background-color: #f2f2f2;
+  width: 500px;
+  border: 15px solid #99ccff;
+  padding:  40px 15px 15px 40px;
+  margin: 20px 0px 5px 0px;
+}
+#product{
+	background-color: #f2f2f2;
+  width: 500px;
+  border: 15px solid #99ccff;
+  padding:  40px 15px 15px 40px;
+  margin: 20px 0px 5px 0px;
+}
